@@ -16,6 +16,6 @@ Recurrent Neural Network(RNN) are a type of Neural Network where the output from
 
 Long Short-Term Memory (LSTM) networks are a type of recurrent neural network capable of learning order dependence in sequence prediction problems.LSTM can by default retain the information for a long period of time.LSTM recurrent unit is much more complex than that of RNN, which improves learning but requires more computational resources.The basic workflow of a Long Short Term Memory Network is similar to the workflow of a Recurrent Neural Network with the only difference being that the Internal Cell State is also passed forward along with the Hidden State.It is used for processing, predicting, and classifying on the basis of time-series data.LSTM deals with algorithms that try to mimic the human brain the way it operates and to uncover the underlying relationships in the given sequential data.
 
-# Training and Evaluation Plot
+# Training and Evaluation
 
 ![Training and Evaluation Plot](https://github.com/niyarrbarman/calmspace/blob/main/model/train%20evaluation%20plot.jpg)
